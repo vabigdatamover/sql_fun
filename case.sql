@@ -1,4 +1,4 @@
----Setting up GitUp
+---Setting up GitHub
 SELECT DISTINCT discount,
   CASE
   WHEN discount = 1 THEN 'FREE'
